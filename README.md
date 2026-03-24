@@ -1,10 +1,8 @@
 # projecte-daw
 
-Nom: GymFit 2.0.Equip:
+Nom: GymFit 2.0.
 
-Product Owner: Iker Mercè.
-
-Scrum Master: Iker Mercè.
+Equip: Product Owner: Iker Mercè. Scrum Master: Iker Mercè.
 
 Tecnologies: React, Node.js, MySQL.
 
